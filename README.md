@@ -1,1 +1,1 @@
-# Convert WIDER labels to YOLO labels
+Convert WIDER labels to YOLO labels
